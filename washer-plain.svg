@@ -1,0 +1,17 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 110 110">
+ <g transform="translate(0 -942.36)">
+  <g stroke="#005a9d" stroke-width="3">
+   <rect rx="4.8" ry="4.8636" height="107" width="72" stroke-linecap="round" y="943.86" x="19" fill="none"/>
+   <path d="m20 966.06h70" fill="none"/>
+   <g transform="translate(-.076187)" stroke-linecap="round" fill="none">
+    <rect height="9" width="27" y="950.26" x="26.924"/>
+    <circle cx="64.076" cy="954.76" r="4.5"/>
+    <circle cy="954.76" cx="78.729" r="4.5"/>
+   </g>
+   <g transform="translate(92.975 12.312)" stroke-linecap="round">
+    <path d="m-12.057 995.65c-0.000029 14.314-11.604 25.917-25.917 25.917-14.314 0-25.917-11.604-25.917-25.917 27.085 19.394 24.585-18.473 51.834 0z" fill="#005a9d"/>
+    <circle cy="995.65" cx="-37.975" r="25.917" fill="none"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 75 110">
+ <g transform="translate(0 -942.36)" stroke="#005a9d" fill="none">
+  <rect rx="5.9135" ry="5.9355" height="101" width="71.996" y="943.86" x="1.5106" stroke-width="3.004"/>
+  <path d="m1.9572 977.37h71.785" stroke-width="3"/>
+  <g stroke-linecap="round">
+   <path d="m60 987.37v29.998" stroke-width="3"/>
+   <path d="m59.949 952.47v14.893" stroke-width="3"/>
+   <path d="m21.441 1046.1v4.015c0 0.4673-0.56176 0.8436-1.2595 0.8436h-7.6571c-0.69779 0-1.2595-0.3763-1.2595-0.8436v-4.015z" stroke-width="2.8673"/>
+   <path d="m63.588 1046.1v4.015c0 0.4673-0.56176 0.8436-1.2595 0.8436h-7.6571c-0.69779 0-1.2595-0.3763-1.2595-0.8436v-4.015z" stroke-width="2.8673"/>
+  </g>
+ </g>
+</svg>
